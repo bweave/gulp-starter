@@ -1,0 +1,17 @@
+{
+  "name": "project-name",
+  "main": "index.html",
+  "version": "0.0.0",
+  "authors": [
+    "Brian Weaver <bdrums@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
